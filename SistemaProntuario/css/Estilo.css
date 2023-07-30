@@ -1,0 +1,320 @@
+﻿* {
+    font-family: 'Montserrat', sans-serif;
+}
+body{margin:0;}
+header{text-align:center;}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+table {
+    background-color: black;
+    box-shadow: 0 4px 10px -5px;
+}
+
+input {
+    width: 50%;
+    box-shadow: 0 4px 10px -5px;
+    padding: 3px;
+    border: none;
+    border-radius: 4px;
+}
+
+input:focus-visible {
+    border: none;
+    text-decoration: none;
+    outline: none;
+}
+
+table tr {
+    text-align: center;
+    background-color: white;
+}
+
+table tbody tr:hover {
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+#tblResultado {
+    width: 80%;
+    margin: auto;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 3%;
+}
+
+h3 {margin-top: 4%;}
+
+.bloco {
+    border-radius: 5px;
+    width: 85%;
+    /*background-color: #babaca;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    /*box-shadow: 0 4px 10px -5px;*/
+    /* bonito tbm:  box-shadow: 0 23px 130px -43px;*/
+}
+
+#buscar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+select {
+    box-shadow: 0 4px 10px -5px;
+    margin-right: 10px;
+    margin-left: 3px;
+    padding: 3px;
+    border: none;
+    border-radius: 4px;
+}
+
+select:focus-visible { text-decoration:none;}
+
+#Pesquisa {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: thin solid white;
+    border-bottom: thin solid white;
+}
+
+#linhaH1 {
+    background-color: white;
+    width: 159px;
+    height: 2px;
+    position: relative;
+    top: -15px;
+    left: -90px;
+}
+
+h1 {
+    font-size: 19px;
+    cursor: pointer;
+}
+nav ul { margin:0; padding-left: 0;}
+nav ul li {
+    display: inline-block;
+    /* background-color: #ff0000; */
+    text-align: center;
+    padding: 0 7px;
+    margin-right: 5px;
+}
+
+#btnFind {
+    margin-left: 10px;
+    padding: 3px;
+    border: none;
+    box-shadow: 0 4px 10px -5px;
+}
+
+p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 10%;
+}
+
+#pBuscar {
+    margin-left: 0;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 5px;
+}
+
+#txtBusca {
+    width: 58%;
+    box-shadow: 0 4px 10px -5px;
+    padding: 3px;
+    border: none;
+}
+#txtBusca:focus-visible {
+    border: none;
+    text-decoration: none;
+    outline: none;
+}
+
+#btnFind {
+    width: 8%;
+    margin-left: 10px;
+    padding: 3px;
+    border: none;
+    box-shadow: 0 4px 10px -5px;
+}
+/* .bloco.dados{
+    align-items: flex-start
+} */
+#documentosCheck {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 155px;
+    width: 80%;
+    align-items: center;
+    align-content: space-between;
+    justify-content: space-around;
+}
+
+#documentosCheck input {
+    width: 25px;
+    height: 22px;
+    box-shadow: 0 0 0 0;
+    padding: 0;
+    border: none;
+}
+
+#documentosCheck p {
+    margin-left: 0;
+}
+
+#documentosCheck label, #documentosCheck span{
+    text-align: center;
+}
+
+#documentosCheck div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 18px;
+    margin-bottom: 16px;
+}
+
+#docs {
+    border-top: thin solid white;
+    width: 100%;
+    border-bottom: thin solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#docs p { margin:auto;}
+td, th {
+    padding: 4px;
+    font-size: 15px;
+}
+
+.esconder {
+    display: none;
+}
+
+#cursos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bloco.dados table tr:hover {
+    cursor: default;
+    background-color: white;
+}
+.sla, .sla div {
+    width: 100%;
+}
+
+#tblInfos {
+    width: 80%;
+    margin: auto;
+}
+
+#lblDocumentos {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 140px;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+input[disabled] {
+    background-color: initial;
+}
+
+#tblCursos {
+    width: 80%;
+    margin: auto;
+}
+
+#alunoNotFound {
+    margin: 0;
+    text-align: center;
+    margin-top: 3%;
+    font-size: 16px;
+}
+
+#btnSalvarDocumentos {
+    width: 12%;
+    margin-bottom: 2%;
+    padding: 5px;
+}
+#btnSalvarDocumentos:hover{ cursor: pointer }
+
+#pnlDiplomas {
+    margin-bottom: 5%;
+}
+#pnlDiplomas td, th {padding: 7px;}
+
+litRespostaSalvar p {
+    margin: auto;
+    padding-bottom: 1%;
+}
+
+td a {
+    text-decoration: none;
+    color: #2700ff;
+}
+
+#pnlCriarDiploma {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+#chkSegundaVia{ width: 16%;}
+
+.divDF {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3%;
+}
+.divDF input, .divDF select { box-shadow: none; border: thin solid }
+
+#btnEmitir2Via {
+    width: 13%;
+    margin: auto;
+    margin-top: 2%;
+    cursor: pointer;
+}
+
+.inputNovoDiploma {
+    width: 98%;
+}
+
+#dplTipoDiploma {
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+}
+#pnlDiplomas p {
+    margin: auto;
+    margin-top: 2%;
+}

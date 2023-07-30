@@ -1,0 +1,180 @@
+E:\PW\SistemaProntuario\bin\SistemaProntuario.dll.config
+E:\PW\SistemaProntuario\bin\SistemaProntuario.dll
+E:\PW\SistemaProntuario\bin\SistemaProntuario.pdb
+E:\PW\SistemaProntuario\bin\roslyn\csc.exe
+E:\PW\SistemaProntuario\bin\roslyn\csc.exe.config
+E:\PW\SistemaProntuario\bin\roslyn\csc.rsp
+E:\PW\SistemaProntuario\bin\roslyn\csi.exe
+E:\PW\SistemaProntuario\bin\roslyn\csi.exe.config
+E:\PW\SistemaProntuario\bin\roslyn\csi.rsp
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PW\SistemaProntuario\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.AppContext.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Collections.Immutable.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Console.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Globalization.Calendars.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.IO.Compression.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.IO.FileSystem.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Net.Http.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Net.Sockets.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Reflection.Metadata.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.ValueTuple.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Xml.XPath.dll
+E:\PW\SistemaProntuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PW\SistemaProntuario\bin\roslyn\vbc.exe
+E:\PW\SistemaProntuario\bin\roslyn\vbc.exe.config
+E:\PW\SistemaProntuario\bin\roslyn\vbc.rsp
+E:\PW\SistemaProntuario\bin\roslyn\VBCSCompiler.exe
+E:\PW\SistemaProntuario\bin\roslyn\VBCSCompiler.exe.config
+E:\PW\SistemaProntuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PW\SistemaProntuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.AssemblyReference.cache
+E:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.CoreCompileInputs.cache
+E:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.CopyComplete
+E:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.dll
+E:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.pdb
+E:\PW\SistemaProntuario\bin\MySql.Data.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\SistemaProntuario.dll.config
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\SistemaProntuario.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\SistemaProntuario.pdb
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\csc.exe
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\csc.exe.config
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\csc.rsp
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\csi.exe
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\csi.exe.config
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\csi.rsp
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.AppContext.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Console.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.IO.Compression.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Net.Http.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Net.Sockets.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.ValueTuple.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Xml.XPath.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\vbc.exe
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\vbc.exe.config
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\vbc.rsp
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\VBCSCompiler.exe
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\MySql.Data.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.AssemblyReference.cache
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.CoreCompileInputs.cache
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.CopyComplete
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\obj\Debug\SistemaProntuario.dll
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PWII\SistemaProntuario\obj\Debug\SistemaProntuario.pdb
+F:\PW\SistemaProntuario\bin\SistemaProntuario.dll.config
+F:\PW\SistemaProntuario\bin\SistemaProntuario.dll
+F:\PW\SistemaProntuario\bin\SistemaProntuario.pdb
+F:\PW\SistemaProntuario\bin\roslyn\csc.exe
+F:\PW\SistemaProntuario\bin\roslyn\csc.exe.config
+F:\PW\SistemaProntuario\bin\roslyn\csc.rsp
+F:\PW\SistemaProntuario\bin\roslyn\csi.exe
+F:\PW\SistemaProntuario\bin\roslyn\csi.exe.config
+F:\PW\SistemaProntuario\bin\roslyn\csi.rsp
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PW\SistemaProntuario\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.AppContext.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Collections.Immutable.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Console.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Globalization.Calendars.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.IO.Compression.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.IO.FileSystem.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Net.Http.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Net.Sockets.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Reflection.Metadata.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.ValueTuple.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Xml.XPath.dll
+F:\PW\SistemaProntuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PW\SistemaProntuario\bin\roslyn\vbc.exe
+F:\PW\SistemaProntuario\bin\roslyn\vbc.exe.config
+F:\PW\SistemaProntuario\bin\roslyn\vbc.rsp
+F:\PW\SistemaProntuario\bin\roslyn\VBCSCompiler.exe
+F:\PW\SistemaProntuario\bin\roslyn\VBCSCompiler.exe.config
+F:\PW\SistemaProntuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PW\SistemaProntuario\bin\MySql.Data.dll
+F:\PW\SistemaProntuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.AssemblyReference.cache
+F:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.CoreCompileInputs.cache
+F:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.csproj.CopyComplete
+F:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.dll
+F:\PW\SistemaProntuario\obj\Debug\SistemaProntuario.pdb
